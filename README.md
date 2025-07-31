@@ -1,5 +1,5 @@
 <h1 align="center" style="font-weight: bold;">
-  🌈 Oi, eu sou o <span style="color:#00ffff;">Kayky Nascimento</span> 🙋🏿‍♂️
+   Oi, eu sou o <span style="color:#00ffff;">Kayky Nascimento</span> 🙋🏿‍♂️
 </h1>
 <h3 align="center">🎓 Cursando Desenvolvimento de Sistemas | 🧠 Apaixonado por tecnologia</h3>
 
