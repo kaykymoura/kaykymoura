@@ -1,54 +1,87 @@
-<!-- Banner com seu nome em efeito RGB typing (funciona 100%) -->
+<!-- 🔥 README PROFISSIONAL RGB PREMIUM 🔥 -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Salve%2C+eu+sou+o+Kayky+Nascimento;Dev+Fullstack+em+formação;SENAI-SP+%7C+Foco+em+APIs+modernas;Codando+com+alma+de+projetista" />
+
+</div>
+
+---
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/1hHMomQ3j7n6nvNpEX/giphy.gif" width="260" />
+</h1>
+
+<h2 align="center" style="color:#fff;">
+  <img src="https://img.shields.io/badge/🔥%20Cursando%20Desenvolvimento%20de%20Sistemas-%23007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚀%20Foco%20em%20APIs%20Rest-%23F700F7?style=for-the-badge"/>
+</h2>
+
+---
+
+## 💻 Tecnologias Principais
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=1000&lines=Salve%2C+eu+sou+o+Kayky+Nascimento;Professor+SENAI-SP+e+Dev+Fullstack;Codando+com+paix%C3%A3o+e+foco" alt="Título RGB animado">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="75" style="filter: drop-shadow(0 0 10px yellow);"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="75" style="filter: drop-shadow(0 0 10px #a259ff);"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="75" style="filter: drop-shadow(0 0 10px #61dafb);"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="75" style="filter: drop-shadow(0 0 10px cyan);"/>
 </p>
 
 ---
 
-## 🐶 Meu Pet Cachorro — O Dono da Área! 😎
+## 🧠 Filosofia de Código
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYFzpjh6N7SQkU4/giphy.gif" alt="Cachorro acenando" width="250" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="360"/>
+</div>
 
-<p align="center"><strong>Meu cachorro: o verdadeiro chefe do código 🐾🔥</strong></p>
-
----
-
-## 💻 Tecnologias em Foco
-
-<p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="SENAI-SP" src="https://img.shields.io/badge/SENAI-SP-0078D7?style=for-the-badge&logo=google-scholar&logoColor=white" />
+<p align="center" style="font-weight: bold; font-size: 18px;">
+  Pensar como Arquiteto. Codar como Artista.
 </p>
 
 ---
 
-## 🌐 Me encontre por aí!
+## 📈 Stats do GitHub com Glow
 
 <p align="center">
-  <a href="https://www.instagram.com/kaykymouraa" target="_blank">Instagram</a> •
-  <a href="https://www.linkedin.com/in/kayky-nascimento-6aa9b4320/" target="_blank">LinkedIn</a> •
-  <a href="mailto:kaykynascimentoep@gmail.com" target="_blank">Email</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaykymoura&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykymoura&layout=compact&langs_count=10&theme=radical"/>
 </p>
 
 ---
 
-## 🎯 Minha missão
+## 🧲 Conecte-se comigo
 
-<p align="center"><strong>Sempre aprendendo, sempre evoluindo | Codando com paixão e foco | Futuro dev fullstack SENAI-SP</strong></p>
+<p align="center">
+  <a href="https://www.instagram.com/kaykymouraa" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kayky-nascimento-6aa9b4320/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kaykynascimentoep@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🌈 Contribuições
+## 🐶 Códigos com Mascote Fiel
 
-<p align="center"><strong>Contribuições Welcome!</strong></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZsX2d6QjVi7nJUA/giphy.gif" width="300"/>
+</p>
 
 ---
 
-## 📜 Licença
+<h2 align="center" style="color:#0ff;">
+  🔥 Motivação: Desenvolver soluções que impactam de verdade.
+</h2>
 
-<p align="center">Este projeto está sob a licença MIT. Veja o arquivo <code>LICENSE</code> para mais detalhes.</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120">
+</p>
+
+---
+
