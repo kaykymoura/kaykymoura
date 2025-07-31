@@ -1,81 +1,63 @@
-<!-- Título principal com efeito neon -->
-<h1 align="center" style="font-weight: bold; font-size: 3rem;">
-  <span style="color:#00ffff; text-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff;">
-    Kayky Nascimento
-  </span>
+<h1 align="center" style="font-weight: bold; font-size: 36px;">
+  <span style="color:#00ffff;">Kayky Nascimento</span>
 </h1>
-
-<h3 align="center" style="color:#ffffff; text-shadow: 0 0 8px #8800ff;">
-  Desenvolvedor em formação — apaixonado por transformar ideias em código.
+<h3 align="center" style="color:#f0f0f0;">
+  🚀 Estudante de Desenvolvimento de Sistemas no <strong>SENAI-SP</strong> <br>
+  💡 Foco total em APIs, Frontend e Backend
 </h3>
 
-<!-- GIF inicial super chamativo -->
 <p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="320"/>
+  <img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" width="280" />
 </p>
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo
+### 🛠️ Minhas Tecnologias com Estilo RGB
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="90" width="90" style="filter: drop-shadow(0 0 1.5rem red);"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="90" width="90" style="filter: drop-shadow(0 0 1.5rem cyan);"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="90" width="90" style="filter: drop-shadow(0 0 1.5rem gold);"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="90" width="90" style="filter: drop-shadow(0 0 1.5rem violet);"/>
-</p>
-
-<p align="center" style="font-size: 18px; color: #ccc;">
-  Sempre explorando novas linguagens e frameworks para ampliar meu poder de criação.
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="70" width="70" style="filter: drop-shadow(0 0 1rem yellow);" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="70" width="70" style="filter: drop-shadow(0 0 1rem #9b59b6);" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="70" width="70" style="filter: drop-shadow(0 0 1rem #00ffff);" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="70" width="70" style="filter: drop-shadow(0 0 1rem #3498db);" />
 </p>
 
 ---
 
-## 🐶 Programador com mascote fiel do lado
+### 🔥 Sempre com meu mascote programador ao lado
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR1yo2Gz6Z4pRzW/giphy.gif" width="320" />
-</p>
-
-<p align="center" style="color: #999;">
-  Compilando códigos e recebendo carinho ao mesmo tempo.
+  <img src="https://media.giphy.com/media/3o6ZsX2d6QjVi7nJUA/giphy.gif" width="280"/>
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 📈 Estatísticas do GitHub com Neon
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaykymoura&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykymoura&layout=compact&langs_count=10&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaykymoura&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykymoura&layout=compact&langs_count=10&theme=radical"/>
 </p>
 
 ---
 
-## 🌐 Onde me encontrar
+### 🌐 Me encontre nas redes
 
 <p align="center">
   <a href="https://www.instagram.com/kaykymouraa" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23e1306c?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/kayky-nascimento-6aa9b4320/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kaykynascimentoep@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23c71610?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💬 Frases em destaque
+### 🧠 Sempre estudando e evoluindo
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Codando+com+estilo+e+visão;Construindo+meu+futuro+com+cada+linha;Aprendendo+.+Evoluindo+.+Criando!"/>
-</p>
-
----
-
-<p align="center" style="color: #aaa; font-style: italic;">
-  Este é só o começo. O mundo do código é infinito e eu estou só começando a explorar.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=480&lines=Codando+com+atitude+e+estilo;Explorando+React,+C%23+e+APIs;Desenvolvedor+Fullstack+em+formação" />
 </p>
