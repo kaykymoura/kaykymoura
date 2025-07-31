@@ -9,9 +9,9 @@
   Desenvolvedor em formação | Criador de ideias digitais
 </h3>
 
-<!-- GIF animado dando oi -->
+<!-- GIF animado acenando do GIPHY -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjh5cHB3bWZzdzR6dzVhZjVibmh6Y2JmZGk2N2R4amY3MnFqMHVnOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Xb2LfzqPq6K1q/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="280" />
 </p>
 
 <p align="center">
