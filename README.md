@@ -1,60 +1,28 @@
-<p align="center" style="font-family: 'Fira Code', monospace;">
+<p align="center">
 
-  <span style="
-    font-size: 3.5rem; 
-    font-weight: 900;
-    background: linear-gradient(270deg, 
-      #ff0000, #00ff00, #0000ff, #ff0000);
-    background-size: 600% 600%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: rgbShift 10s ease infinite;
-    display: inline-block;
-  ">
-    Salve, eu sou o Kayky Nascimento
-  </span>
+  <img src="https://i.imgur.com/9Ip3aYz.gif" alt="Kayky Nascimento - Professor SENAI - RGB Animated" width="450" />
 
   <br />
 
-  <span style="
-    font-size: 2rem; 
-    font-weight: 700; 
-    background: linear-gradient(90deg, #00ffff, #ff00ff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: rgbShift 12s ease infinite;
-    display: inline-block;
-  ">
-    Dev Fullstack em formação
-  </span>
+  <h2 style="font-family: 'Fira Code', monospace; color:#00FFAB; font-weight: 700;">
+    Professor no SENAI-SP | Dev Fullstack & Cientista de Dados
+  </h2>
 
-  <br />
-
-  <span style="font-size: 1.5rem; font-weight: 600; color: #ccc;">
-    SENAI-SP | Foco em APIs modernas
-  </span>
-
-  <br />
-
-  <span style="font-size: 1.25rem; font-weight: 400; color: #aaa; font-style: italic;">
-    Codando com paixão e foco
-  </span>
-
+  <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:1.1rem; color:#ccc;">
+    Codando, ensinando e evoluindo — tudo com paixão e foco!
+  </p>
+  
 </p>
 
-<style>
-  @keyframes rgbShift {
-    0% {
-      background-position: 0% 50%;
-    }
-    50% {
-      background-position: 100% 50%;
-    }
-    100% {
-      background-position: 0% 50%;
-    }
-  }
-</style>
+---
+
+## 🐶 Meu Pet Cachorro
+
+<p align="center">
+  <img src="https://placedog.net/400/250?id=123" alt="Meu cachorro" style="border-radius: 15px; box-shadow: 0 0 15px #00FFAB;" />
+  <br />
+  <em style="color:#00FFAB;">Meu parceiro fiel que me acompanha nas longas sessões de código e estudos!</em>
+</p>
 
 ---
 
@@ -70,18 +38,28 @@
 
 ---
 
-## 🚀 Skills & Foco
+## 🌐 Me encontre por aí!
 
-<p align="center"><strong>JavaScript | C# | React | SQL | Foco em APIs robustas</strong></p>
+<p align="center">
+  <a href="https://www.instagram.com/kaykymouraa" target="_blank" rel="noopener noreferrer" style="margin:0 10px;">Instagram</a> | 
+  <a href="https://www.linkedin.com/in/kayky-nascimento-6aa9b4320/" target="_blank" rel="noopener noreferrer" style="margin:0 10px;">LinkedIn</a> | 
+  <a href="mailto:kaykynascimentoep@gmail.com" target="_blank" rel="noopener noreferrer" style="margin:0 10px;">Email</a>
+</p>
 
 ---
 
-## 🔥 Código que não para
+## 🎯 Minha missão
 
-```bash
-# loop infinito da evolução e aprendizado
-while true; do
-  estudar
-  codar
-  melhorar
-done
+<p align="center"><strong>Sempre aprendendo, sempre evoluindo | Codando com paixão e foco | Futuro dev fullstack SENAI-SP</strong></p>
+
+---
+
+## 🌈 Contribuições
+
+<p align="center"><strong>Contribuições Welcome!</strong></p>
+
+---
+
+## 📜 Licença
+
+<p align="center">Este projeto está sob a licença MIT. Veja o arquivo <a href="LICENSE">LICENSE</a> para mais detalhes.</p>
