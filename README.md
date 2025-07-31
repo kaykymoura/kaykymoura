@@ -9,9 +9,9 @@
   Desenvolvedor em formação | Criador de ideias digitais
 </h3>
 
-<!-- GIF animado acenando do GIPHY -->
+<!-- GIF Bob Esponja dando oi -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/l2SpLDf6F5qv06SJi/giphy.gif" width="280" />
 </p>
 
 <p align="center">
