@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/boas-vindas.gif" width="280" alt="Boas vindas animadas" />
+  <img src="https://i.imgur.com/1hHMomQ.gif" width="280" alt="Boas vindas animadas" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 ## 🐶 Meu parceiro de código
 
 <p align="center">
-  <img src="./assets/cachorro-codando.gif" width="280" alt="Cachorro programador" />
+  <img src="https://i.imgur.com/wK3Dx5b.gif" width="280" alt="Cachorro programador" />
 </p>
 
 ---
