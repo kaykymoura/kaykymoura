@@ -9,9 +9,9 @@
   Desenvolvedor em formação | Criador de ideias digitais
 </h3>
 
-<!-- GIF desenho animado mexendo no computador -->
+<!-- GIF personagem desenho animado dando oi -->
 <p align="center">
-  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="280" />
 </p>
 
 <p align="center">
