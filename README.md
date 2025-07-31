@@ -9,16 +9,14 @@
   Desenvolvedor em formação | Criador de ideias digitais
 </h3>
 
-<!-- GIF de personagem acenando -->
+<!-- GIF de personagem animado acenando -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjh5cHB3bWZzdzR6dzVhZjVibmh6Y2JmZGk2N2R4amY3MnFqMHVnOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Xb2LfzqPq6K1q/giphy.gif" width="280" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Codando+com+atitude!;Criando+o+futuro+em+linhas+de+c%C3%B3digo;Kayky+Nascimento+-+Dev+em+evolu%C3%A7%C3%A3o" />
 </p>
-
----
 
 ## 🚀 Tecnologias em construção
 
@@ -32,8 +30,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" height="100" width="100" style="filter: drop-shadow(0 0 2rem #8800ff);" title="APIs .NET"/>
 </p>
 
----
-
 ## 🐶 Meu mascote fiel na jornada
 
 <p align="center">
@@ -42,16 +38,12 @@
 
 <p align="center" style="color:#aaa;">Trabalhando, estudando e sendo vigiado por um pet dev 👀</p>
 
----
-
 ## 📊 Minhas estatísticas
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaykymoura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykymoura&layout=compact&langs_count=10&theme=tokyonight"/>
 </p>
-
----
 
 ## 🌐 Onde você me acha
 
@@ -67,15 +59,11 @@
   </a>
 </p>
 
----
-
 ## ⚡ Frases que me definem
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+c%C3%B3digo;Cada+linha+me+leva+mais+longe;Criando+com+prop%C3%B3sito+e+paix%C3%A3o"/>
 </p>
-
----
 
 <p align="center" style="font-size: 16px; color: #888;">
   "Eu não estou apenas aprendendo a programar. Estou aprendendo a criar o futuro."
