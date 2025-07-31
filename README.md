@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1hHMomQ3j7n6nvNpEX/giphy.gif" width="280" alt="Boas vindas animadas" />
+  <img src="./assets/boas-vindas.gif" width="280" alt="Boas vindas animadas" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 ## 🐶 Meu parceiro de código
 
 <p align="center">
-  <img src="https://i.imgur.com/wK3Dx5b.gif" width="280" alt="Cachorro programador" />
+  <img src="./assets/cachorro-codando.gif" width="280" alt="Cachorro programador" />
 </p>
 
 ---
@@ -59,5 +59,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Codando+em+JavaScript,+C%23,+React+e+SQL;Foco+total+em+APIs+robustas;Futuro+dev+fullstack+SENAI-SP" alt="Mensagem digitando" />
 </p>
-
----
