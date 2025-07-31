@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="350"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Codando+com+atitude!;Criando+o+futuro+em+linhas+de+c%C3%B3digo;Kayky+Nascimento+-+Dev+em+evolu%C3%A7%C3%A3o" />
 </p>
 
 ---
