@@ -1,18 +1,7 @@
+<!-- TÍTULO ANIMADO COM SVG RGB -->
+
 <p align="center">
-
-  <!-- GIF RGB animado no título -->
-  <img src="https://i.imgur.com/9Ip3aYz.gif" alt="Kayky Nascimento - Professor SENAI - RGB Animated" width="450" />
-
-  <br />
-
-  <h2 style="font-family: 'Fira Code', monospace; color:#00FFAB; font-weight: 700;">
-    Professor no SENAI-SP | Dev Fullstack & Cientista de Dados
-  </h2>
-
-  <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:1.1rem; color:#ccc;">
-    Codando, ensinando e evoluindo — tudo com paixão e foco!
-  </p>
-  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=1000&lines=Salve,+eu+sou+o+Kayky+Nascimento;Professor+SENAI-SP+e+Dev+Fullstack;Codando+com+paix%C3%A3o+e+foco" alt="Título animado RGB"/>
 </p>
 
 ---
@@ -20,12 +9,10 @@
 ## 🐶 Meu Pet Cachorro — O Dono da Área! 😎
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYFzpjh6N7SQkU4/giphy.gif" alt="Cachorro acenando" width="300" style="border-radius: 15px; box-shadow: 0 0 20px #00FFAB;" />
-  <br />
-  <strong style="color:#00FFAB; font-size:1.2rem;">
-    Meu cachorro: aquele que não só late, mas sabe que é o melhor da casa! 🐾🔥
-  </strong>
+  <img src="https://media.giphy.com/media/l0MYFzpjh6N7SQkU4/giphy.gif" alt="Cachorro acenando" width="250" />
 </p>
+
+<p align="center"><strong>Meu cachorro: aquele que não só late, mas sabe que é o melhor da casa! 🐾🔥</strong></p>
 
 ---
 
@@ -44,9 +31,9 @@
 ## 🌐 Me encontre por aí!
 
 <p align="center">
-  <a href="https://www.instagram.com/kaykymouraa" target="_blank" rel="noopener noreferrer" style="margin:0 10px;">Instagram</a> | 
-  <a href="https://www.linkedin.com/in/kayky-nascimento-6aa9b4320/" target="_blank" rel="noopener noreferrer" style="margin:0 10px;">LinkedIn</a> | 
-  <a href="mailto:kaykynascimentoep@gmail.com" target="_blank" rel="noopener noreferrer" style="margin:0 10px;">Email</a>
+  <a href="https://www.instagram.com/kaykymouraa" target="_blank">Instagram</a> •
+  <a href="https://www.linkedin.com/in/kayky-nascimento-6aa9b4320/" target="_blank">LinkedIn</a> •
+  <a href="mailto:kaykynascimentoep@gmail.com" target="_blank">Email</a>
 </p>
 
 ---
@@ -65,4 +52,4 @@
 
 ## 📜 Licença
 
-<p align="center">Este projeto está sob a licença MIT. Veja o arquivo <a href="LICENSE">LICENSE</a> para mais detalhes.</p>
+<p align="center">Este projeto está sob a licença MIT. Veja o arquivo <code>LICENSE</code> para mais detalhes.</p>
