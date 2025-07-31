@@ -9,9 +9,9 @@
   Desenvolvedor em formação | Criador de ideias digitais
 </h3>
 
-<!-- GIF Bob Esponja dando oi -->
+<!-- GIF personagem desenho animado codificando -->
 <p align="center">
-  <img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="280" />
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@
 ## ⚡ Frases que me definem
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+c%C3%B3digo;Cada+linha+me+leva+mais+longe;Criando+com+prop%C3%B3sito+e+paix%C3%A3o"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+c%C3%B3digo;Cada+linha+me+leva+mais+longe;Criando+com+prop%C3%B3sito+e+paix%C3%A3o"/>
 </p>
 
 <p align="center" style="font-size: 16px; color: #888;">
