@@ -1,5 +1,6 @@
 <p align="center">
 
+  <!-- GIF RGB animado no título -->
   <img src="https://i.imgur.com/9Ip3aYz.gif" alt="Kayky Nascimento - Professor SENAI - RGB Animated" width="450" />
 
   <br />
@@ -16,12 +17,14 @@
 
 ---
 
-## 🐶 Meu Pet Cachorro
+## 🐶 Meu Pet Cachorro — O Dono da Área! 😎
 
 <p align="center">
-  <img src="https://placedog.net/400/250?id=123" alt="Meu cachorro" style="border-radius: 15px; box-shadow: 0 0 15px #00FFAB;" />
+  <img src="https://media.giphy.com/media/l0MYFzpjh6N7SQkU4/giphy.gif" alt="Cachorro acenando" width="300" style="border-radius: 15px; box-shadow: 0 0 20px #00FFAB;" />
   <br />
-  <em style="color:#00FFAB;">Meu parceiro fiel que me acompanha nas longas sessões de código e estudos!</em>
+  <strong style="color:#00FFAB; font-size:1.2rem;">
+    Meu cachorro: aquele que não só late, mas sabe que é o melhor da casa! 🐾🔥
+  </strong>
 </p>
 
 ---
