@@ -17,3 +17,11 @@ done
 🌐 Me encontre por aí!
 
 <p align="center"> <a href="https://www.instagram.com/kaykymouraa" target="_blank" rel="noopener noreferrer">Instagram</a> | <a href="https://www.linkedin.com/in/kayky-nascimento-6aa9b4320/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="mailto:kaykynascimentoep@gmail.com" target="_blank" rel="noopener noreferrer">Email</a> </p>
+🎯 Minha missão
+Ser um desenvolvedor Fullstack excepcional, entregando APIs robustas e experiências incríveis!
+
+<p align="center"> <strong>Sempre aprendendo, sempre evoluindo | Codando com paixão e foco | Futuro dev fullstack SENAI-SP</strong> </p>
+🌈 Contribuições
+<p align="center"> <strong>Contribuições Welcome!</strong> </p>
+📜 Licença
+<p align="center"> Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes. </p>
