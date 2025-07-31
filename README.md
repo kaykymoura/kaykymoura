@@ -1,61 +1,59 @@
-<h1 align="center">Olá, eu sou o Kayky 🙋🏿‍♂️</h1>
-<h3 align="center">Futuro Desenvolvedor | Cursando Desenvolvimento de Sistemas</h3>
+<h1 align="center" style="font-weight: bold;">
+  🌈 Oi, eu sou o <span style="color:#00ffff;">Kayky Nascimento</span> 🙋🏿‍♂️
+</h1>
+<h3 align="center">🎓 Cursando Desenvolvimento de Sistemas | 🧠 Apaixonado por tecnologia</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" width="250" />
 </p>
 
 ---
 
-### 🚀 Tecnologias em foco
+### ⚡ Tecnologias que estou aprendendo
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp&theme=dark&perline=8" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="70" width="70" style="filter: drop-shadow(0 0 1rem red);"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="70" width="70" style="filter: drop-shadow(0 0 1rem cyan);"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="70" width="70" style="filter: drop-shadow(0 0 1rem yellow);"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="70" width="70" style="filter: drop-shadow(0 0 1rem purple);"/>
 </p>
 
 ---
 
-### 🐶 Meu mascote programador
+### 🐶 Programador com um mascote fiel do lado
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/3o6ZsX2d6QjVi7nJUA/giphy.gif" width="280"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaykymoura&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykymoura&layout=compact&langs_count=10&theme=radical"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaykymoura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykymoura&layout=compact&langs_count=10&theme=tokyonight"/>
+</p>
 
 ---
 
-### 🌐 Redes Sociais
+### 🌐 Onde me encontrar
 
-<div align="center">
+<p align="center">
   <a href="https://www.instagram.com/kaykymouraa" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Instagram-%23ff0050?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/kayky-nascimento-6aa9b4320/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
   <a href="mailto:kaykynascimentoep@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Gmail-%23c14438?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
+</p>
 
 ---
 
-### 🌈 Linguagens favoritas com efeito RGB (hover 🔥)
+### 🌈 Glow Total nas Linguagens
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40" style="filter: drop-shadow(0 0 0.75rem red);">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="40" style="filter: drop-shadow(0 0 0.75rem cyan);">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" style="filter: drop-shadow(0 0 0.75rem yellow);">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" width="40" style="filter: drop-shadow(0 0 0.75rem purple);">
-</div>
-
----
-
-### ✨ "Codando com café ☕ e sonhos 💻"
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F700F7&center=true&vCenter=true&width=435&lines=Codando+com+estilo;Estudando+CSS,+HTML,+JS+e+C++;Futuro+dev+fullstack!"/>
+</p>
