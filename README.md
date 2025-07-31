@@ -1,7 +1,6 @@
-<!-- TÍTULO ANIMADO COM SVG RGB -->
-
+<!-- Banner com seu nome em efeito RGB typing (funciona 100%) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=1000&lines=Salve,+eu+sou+o+Kayky+Nascimento;Professor+SENAI-SP+e+Dev+Fullstack;Codando+com+paix%C3%A3o+e+foco" alt="Título animado RGB"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=1000&lines=Salve%2C+eu+sou+o+Kayky+Nascimento;Professor+SENAI-SP+e+Dev+Fullstack;Codando+com+paix%C3%A3o+e+foco" alt="Título RGB animado">
 </p>
 
 ---
@@ -12,7 +11,7 @@
   <img src="https://media.giphy.com/media/l0MYFzpjh6N7SQkU4/giphy.gif" alt="Cachorro acenando" width="250" />
 </p>
 
-<p align="center"><strong>Meu cachorro: aquele que não só late, mas sabe que é o melhor da casa! 🐾🔥</strong></p>
+<p align="center"><strong>Meu cachorro: o verdadeiro chefe do código 🐾🔥</strong></p>
 
 ---
 
