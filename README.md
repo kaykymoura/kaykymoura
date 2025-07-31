@@ -9,7 +9,7 @@
   Desenvolvedor em formação | Criador de ideias digitais
 </h3>
 
-<!-- GIF de personagem animado acenando -->
+<!-- GIF animado dando oi -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjh5cHB3bWZzdzR6dzVhZjVibmh6Y2JmZGk2N2R4amY3MnFqMHVnOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Xb2LfzqPq6K1q/giphy.gif" width="280" />
 </p>
@@ -20,13 +20,14 @@
 
 ## 🚀 Tecnologias em construção
 
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="100" width="100" style="filter: drop-shadow(0 0 2rem red);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="100" width="100" style="filter: drop-shadow(0 0 2rem cyan);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="100" width="100" style="filter: drop-shadow(0 0 2rem gold);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="100" width="100" style="filter: drop-shadow(0 0 2rem violet);"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png" height="100" width="100" style="filter: drop-shadow(0 0 2rem crimson);" title="SQL Server"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="100" width="100" style="filter: drop-shadow(0 0 2rem #8800ff);" title="APIs .NET"/>
-
+</p>
 
 ## 🐶 Meu mascote fiel na jornada
 
