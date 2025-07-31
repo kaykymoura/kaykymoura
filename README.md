@@ -9,6 +9,11 @@
   Desenvolvedor em formação | Criador de ideias digitais
 </h3>
 
+<!-- GIF de personagem acenando -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Codando+com+atitude!;Criando+o+futuro+em+linhas+de+c%C3%B3digo;Kayky+Nascimento+-+Dev+em+evolu%C3%A7%C3%A3o" />
 </p>
@@ -22,6 +27,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="100" width="100" style="filter: drop-shadow(0 0 2rem cyan);"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="100" width="100" style="filter: drop-shadow(0 0 2rem gold);"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="100" width="100" style="filter: drop-shadow(0 0 2rem violet);"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="100" width="100" style="filter: drop-shadow(0 0 2rem #00f);"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="100" width="100" style="filter: drop-shadow(0 0 2rem #33f);"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" height="100" width="100" style="filter: drop-shadow(0 0 2rem #8800ff);" title="APIs .NET"/>
 </p>
 
 ---
