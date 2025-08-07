@@ -1,6 +1,6 @@
 <!-- 🌟 TÍTULO IRADO COM GIFZINHO ESTILIZADO -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hVQC3Vxg3gqzG/giphy.gif" width="300" style="border-radius:15px; border: 2px solid #00ffff;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 <h1 align="center">E aí, beleza? Eu sou o Kayky! 👋😎</h1>
@@ -15,8 +15,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" width="60" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="60" title="SQL Server"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="60" title=".NET Core"/>
 </p>
 
 <p align="center"><em>obs: se der erro, a culpa é do estagiário... no caso, eu mesmo 😅</em></p>
