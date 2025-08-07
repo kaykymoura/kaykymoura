@@ -1,6 +1,6 @@
-<!-- 🌟 TÍTULO IRADO COM GIFZINHO -->
+<!-- 🌟 TÍTULO IRADO COM GIFZINHO ESTILIZADO -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" style="border-radius:15px; border: 2px solid #00ffff;" />
 </p>
 
 <h1 align="center">E aí, beleza? Eu sou o Kayky! 👋😎</h1>
@@ -8,44 +8,41 @@
 
 ---
 
-## ⚙️ Skills em construção (tipo Lego mesmo)
+## ⚙️ <p align="center">Skills em construção (tipo Lego mesmo 🧱)</p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" />
 </p>
 
 <p align="center"><em>obs: se der erro, a culpa é do estagiário... no caso, eu mesmo 😅</em></p>
 
 ---
 
-## 🐶 Pet Dev (inspiração? mais ou menos... 👀)
+## 🐶 <p align="center">Pet Dev (inspiração? mais ou menos... 👀)</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="400"/>
 </p>
 
 <p align="center">Ele só mia quando o código quebra 🐾</p>
 
 ---
 
-## 📊 Estatísticas da lenda (ou quase...)
+## 📊 <p align="center">Estatísticas da lenda (ou quase...)</p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaykymoura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</p>
-
-<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykymoura&layout=compact&langs_count=10&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌐 Me encontra por aí (mas sem stalk, hein? 👀)
+## 🌐 <p align="center">Me encontra por aí (mas sem stalk, hein? 👀)</p>
 
 <p align="center">
   <a href="https://www.instagram.com/kaykymouraa" target="_blank">
@@ -61,7 +58,7 @@
 
 ---
 
-## 💬 Frases motivacionais (ou quase isso...)
+## 💬 <p align="center">Frases motivacionais (ou quase isso...)</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Ctrl+C+%2B+Ctrl+V+%3D+sucesso;Se+rodou+de+primeira%2C+algo+t%C3%A1+errado;Na+d%C3%BAvida%2C+reinicia+a+IDE"/>
