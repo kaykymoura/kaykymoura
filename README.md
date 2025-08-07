@@ -1,6 +1,6 @@
 <!-- 🌟 TÍTULO IRADO COM GIFZINHO ESTILIZADO -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" style="border-radius:15px; border: 2px solid #00ffff;" />
+  <img src="https://media.giphy.com/media/hVQC3Vxg3gqzG/giphy.gif" width="300" style="border-radius:15px; border: 2px solid #00ffff;" />
 </p>
 
 <h1 align="center">E aí, beleza? Eu sou o Kayky! 👋😎</h1>
@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" width="60" />
 </p>
 
 <p align="center"><em>obs: se der erro, a culpa é do estagiário... no caso, eu mesmo 😅</em></p>
