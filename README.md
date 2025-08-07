@@ -1,6 +1,6 @@
 <!-- 🌟 TÍTULO IRADO COM GIFZINHO -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250">
 </p>
 
 <h1 align="center">E aí, beleza? Eu sou o Kayky! 👋😎</h1>
@@ -26,7 +26,7 @@
 ## 🐶 Pet Dev (inspiração? mais ou menos... 👀)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="350"/>
 </p>
 
 <p align="center">Ele só mia quando o código quebra 🐾</p>
