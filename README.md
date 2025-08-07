@@ -29,7 +29,7 @@
   <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="250"/>
 </p>
 
-<p align="center">Ele só late quando o código quebra 🐾</p>
+<p align="center">Ele só mia quando o código quebra 🐾</p>
 
 ---
 
